@@ -4,6 +4,7 @@
 
 # Correct the errors below that you spotted in task 1.
 
+
 class CardGame:
 
   def __init__(self, name, cards):
